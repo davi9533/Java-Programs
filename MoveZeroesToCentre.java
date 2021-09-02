@@ -1,5 +1,5 @@
 package array;
-
+//Program to move zeroes to the centre of the array
 public class MoveZeroesToCentre {
 	
 	public static void move(int arr[]) {
